@@ -1,0 +1,902 @@
+[
+    {
+        "panelID": 1065022,
+        "latitude": 47.07065,
+        "longitude": -109.37217,
+        "location": "HWY 87 E N/L 1.7 MI E/O LEWSTOWN",
+        "weeklyImpressions": 10489,
+        "mediaTypeStyle": "Junior Bulletin,Regular",
+        "cost": 650
+    },
+    {
+        "panelID": 1065025,
+        "latitude": 45.78779,
+        "longitude": -111.20452,
+        "location": "I-90 S/L @ MP 296.5 F/E #1",
+        "weeklyImpressions": 62199,
+        "mediaTypeStyle": "Junior Bulletin,Regular",
+        "cost": 1250
+    },
+    {
+        "panelID": 1065022,
+        "latitude": 47.07065,
+        "longitude": -109.37217,
+        "location": "HWY 87 E N/L 1.7 MI E/O LEWSTOWN",
+        "weeklyImpressions": 10489,
+        "mediaTypeStyle": "Junior Bulletin,Regular",
+        "cost": 650
+    },
+    {
+        "panelID": 1065025,
+        "latitude": 45.78779,
+        "longitude": -111.20452,
+        "location": "I-90 S/L @ MP 296.5 F/E #1",
+        "weeklyImpressions": 62199,
+        "mediaTypeStyle": "Junior Bulletin,Regular",
+        "cost": 1250
+    },
+    {
+        "panelID": 109703,
+        "latitude": 47.018977,
+        "longitude": -114.245176,
+        "location": "I-90 W/O FRENCHTOWN F/E #1",
+        "weeklyImpressions": 38595,
+        "mediaTypeStyle": "Permanent Bulletin,Regular",
+        "cost": 1000
+    },
+    {
+        "panelID": 109704,
+        "latitude": 46.835748,
+        "longitude": -114.012579,
+        "location": "SW HIGGINS @ STEPHENS #2 F/E",
+        "weeklyImpressions": 47178,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109705,
+        "latitude": 46.835748,
+        "longitude": -114.012579,
+        "location": "SW HIGGINS @ STEPHENS #1 F/W",
+        "weeklyImpressions": 54401,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109706,
+        "latitude": 46.906854,
+        "longitude": -114.026071,
+        "location": "I-90 WEST W/O RESERVE #1 F/W",
+        "weeklyImpressions": 81343,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109711,
+        "latitude": 46.854079,
+        "longitude": -114.012871,
+        "location": "STEPHENS AT STRAND #2 F/S",
+        "weeklyImpressions": 67178,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109712,
+        "latitude": 46.854079,
+        "longitude": -114.012871,
+        "location": "STEPHENS AT STRAND #1 F/N",
+        "weeklyImpressions": 56690,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109713,
+        "latitude": 46.87832,
+        "longitude": -114.0373375,
+        "location": "RESERVE STREET BRIDGE #1 F/S",
+        "weeklyImpressions": 130924,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109714,
+        "latitude": 46.87832,
+        "longitude": -114.0373375,
+        "location": "RESERVE STREET BRIDGE #4 F/N",
+        "weeklyImpressions": 145228,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109715,
+        "latitude": 46.87832,
+        "longitude": -114.0373375,
+        "location": "RESERVE STREET BRIDGE #3 F/N",
+        "weeklyImpressions": 157745,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1500
+    },
+    {
+        "panelID": 109716,
+        "latitude": 46.87832,
+        "longitude": -114.0373375,
+        "location": "RESERVE STREET BRIDGE #2 F/S",
+        "weeklyImpressions": 153536,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1350
+    },
+    {
+        "panelID": 109717,
+        "latitude": 46.910535,
+        "longitude": -114.03491,
+        "location": "RESERVE STREET @ I-90 #1 F/N",
+        "weeklyImpressions": 85124,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109718,
+        "latitude": 46.910535,
+        "longitude": -114.03491,
+        "location": "RESERVE STREET @ I-90 F/S  #2",
+        "weeklyImpressions": 97853,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109719,
+        "latitude": 46.856371,
+        "longitude": -114.019314,
+        "location": "MOUNT AVE W/O RUSSELL #1 F/E",
+        "weeklyImpressions": 114616,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109720,
+        "latitude": 46.903532,
+        "longitude": -114.021472,
+        "location": "I-90 S/L 3000' E/O RESERVE ST EX# 2 F/W",
+        "weeklyImpressions": 80758,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109721,
+        "latitude": 46.856371,
+        "longitude": -114.019314,
+        "location": "MOUNT AVE W/O RUSSELL #2 F/W",
+        "weeklyImpressions": 46927,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109722,
+        "latitude": 46.903532,
+        "longitude": -114.021472,
+        "location": "I-90 S/L 3000' E/O RESERVE ST EX # 1 F/E",
+        "weeklyImpressions": 32650,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109757,
+        "latitude": 46.96288,
+        "longitude": -114.13192,
+        "location": "US 93 NORTH 1 MILE N/O WYE #2 F/N",
+        "weeklyImpressions": 56834,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109758,
+        "latitude": 46.96288,
+        "longitude": -114.13192,
+        "location": "US 93 NORTH 1 MILE N/O WYE F/S #1",
+        "weeklyImpressions": 54211,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109759,
+        "latitude": 46.934645,
+        "longitude": -114.0919,
+        "location": "I-90 WEST @ AIRPORT",
+        "weeklyImpressions": 75614,
+        "mediaTypeStyle": "Permanent Bulletin,Regular",
+        "cost": 1200
+    },
+    {
+        "panelID": 109760,
+        "latitude": 46.934645,
+        "longitude": -114.0919,
+        "location": "I-90 WEST @ AIRPORT",
+        "weeklyImpressions": 85517,
+        "mediaTypeStyle": "Permanent Bulletin,Regular",
+        "cost": 1350
+    },
+    {
+        "panelID": 109761,
+        "latitude": 46.9544,
+        "longitude": -114.13157,
+        "location": "US 93 NORTH @ WYE #2 F/N",
+        "weeklyImpressions": 64781,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109762,
+        "latitude": 46.9544,
+        "longitude": -114.13157,
+        "location": "US 93 NORTH @ WYE #1 F/S",
+        "weeklyImpressions": 64703,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109763,
+        "latitude": 46.9322,
+        "longitude": -114.086853,
+        "location": "I-90 WEST @ AIRPORT #1 F/E",
+        "weeklyImpressions": 48824,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109765,
+        "latitude": 46.932945,
+        "longitude": -114.088645,
+        "location": "I-90 WEST @ AIRPORT #2",
+        "weeklyImpressions": 71537,
+        "mediaTypeStyle": "Junior Bulletin,Regular",
+        "cost": 1250
+    },
+    {
+        "panelID": 109766,
+        "latitude": 46.932945,
+        "longitude": -114.088645,
+        "location": "I-90 WEST @ AIRPORT #1 F/E",
+        "weeklyImpressions": 39486,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109767,
+        "latitude": 46.930286,
+        "longitude": -114.083181,
+        "location": "I-90 WEST @ AIRPORT #1 F/E",
+        "weeklyImpressions": 41466,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109770,
+        "latitude": 46.931205,
+        "longitude": -114.084965,
+        "location": "I-90 WEST @ AIRPORT #2 F/W",
+        "weeklyImpressions": 75799,
+        "mediaTypeStyle": "Poster,Classic",
+        "cost": 1150
+    },
+    {
+        "panelID": 109771,
+        "latitude": 46.931205,
+        "longitude": -114.084965,
+        "location": "I-90 WEST @ AIRPORT  F/E #1",
+        "weeklyImpressions": 50079,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109774,
+        "latitude": 46.92759,
+        "longitude": -114.07774,
+        "location": "I-90 WEST @ AIRPORT F/W #1",
+        "weeklyImpressions": 76796,
+        "mediaTypeStyle": "Permanent Bulletin,Regular",
+        "cost": 1250
+    },
+    {
+        "panelID": 109775,
+        "latitude": 46.9268,
+        "longitude": -114.07624,
+        "location": "I-90 WEST @ AIRPORT F/W #1",
+        "weeklyImpressions": 81574,
+        "mediaTypeStyle": "Permanent Bulletin,Regular",
+        "cost": 1250
+    },
+    {
+        "panelID": 109776,
+        "latitude": 46.92593,
+        "longitude": -114.07466,
+        "location": "I-90 WEST 2 MI W/O RESERVE ST EXIT F/W #1",
+        "weeklyImpressions": 79115,
+        "mediaTypeStyle": "Permanent Bulletin,Regular",
+        "cost": 1250
+    },
+    {
+        "panelID": 109777,
+        "latitude": 46.928565,
+        "longitude": -114.0797,
+        "location": "I-90 WEST @ AIRPORT F/W #1",
+        "weeklyImpressions": 73456,
+        "mediaTypeStyle": "Junior Bulletin,Regular",
+        "cost": 1000
+    },
+    {
+        "panelID": 109778,
+        "latitude": 46.928565,
+        "longitude": -114.0797,
+        "location": "I-90 WEST @ AIRPORT F/E #1",
+        "weeklyImpressions": 47863,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109779,
+        "latitude": 46.92944,
+        "longitude": -114.08146,
+        "location": "I-90 WEST @ AIRPORT F/W #1",
+        "weeklyImpressions": 76249,
+        "mediaTypeStyle": "Permanent Bulletin,Regular",
+        "cost": 1250
+    },
+    {
+        "panelID": 109781,
+        "latitude": 46.87081,
+        "longitude": -113.93743,
+        "location": "I-90 EAST 1 MILE W/O E MISSOULA F/E #1",
+        "weeklyImpressions": 81386,
+        "mediaTypeStyle": "Permanent Bulletin,Regular",
+        "cost": 1250
+    },
+    {
+        "panelID": 109782,
+        "latitude": 46.87034,
+        "longitude": -113.93859,
+        "location": "I-90 EAST 1 MILE E/O E MISSOULA F/E #1",
+        "weeklyImpressions": 76092,
+        "mediaTypeStyle": "Junior Bulletin,Regular",
+        "cost": 1250
+    },
+    {
+        "panelID": 109784,
+        "latitude": 46.864775,
+        "longitude": -113.9701,
+        "location": "I-90 EAST E/O VAN BUREN F/W #1",
+        "weeklyImpressions": 81253,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109785,
+        "latitude": 46.867115,
+        "longitude": -113.975835,
+        "location": "I-90 EAST E/O VAN BUREN #1 F/W",
+        "weeklyImpressions": 58645,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109787,
+        "latitude": 46.867115,
+        "longitude": -113.975835,
+        "location": "I-90 EAST E/O VAN BUREN F/E #2",
+        "weeklyImpressions": 97908,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109788,
+        "latitude": 46.865735,
+        "longitude": -113.973015,
+        "location": "I-90 EAST E/O VAN BUREN F/W #1",
+        "weeklyImpressions": 93160,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109789,
+        "latitude": 46.865735,
+        "longitude": -113.973015,
+        "location": "I-90 EAST E/O VAN BUREN F/E #2",
+        "weeklyImpressions": 92413,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109790,
+        "latitude": 46.87612,
+        "longitude": -114.00802,
+        "location": "WEST BROADWAY @ SCOTT  F/E #!",
+        "weeklyImpressions": 39329,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109791,
+        "latitude": 46.87612,
+        "longitude": -114.00802,
+        "location": "WEST BROADWAY @ SCOTT  F/W #2",
+        "weeklyImpressions": 49763,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109792,
+        "latitude": 46.888135,
+        "longitude": -114.027215,
+        "location": "WEST BROADWAY @ MURPHY  F/E #2",
+        "weeklyImpressions": 50749,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109793,
+        "latitude": 46.888135,
+        "longitude": -114.027215,
+        "location": "WEST BROADWAY @ MURPHY  F/W #1",
+        "weeklyImpressions": 42059,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109794,
+        "latitude": 46.89499,
+        "longitude": -114.03287,
+        "location": "WEST BROADWAY @ RAILROAD  F/W #1",
+        "weeklyImpressions": 36818,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109795,
+        "latitude": 46.86874,
+        "longitude": -113.94881,
+        "location": "EAST BROADWAY @ HIGHTON F/E #1",
+        "weeklyImpressions": 35868,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109796,
+        "latitude": 46.86963,
+        "longitude": -113.94837,
+        "location": "EAST BROADWAY AT MINNESOTA F/E #1",
+        "weeklyImpressions": 17653,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109797,
+        "latitude": 46.87486,
+        "longitude": -114.00385,
+        "location": "WEST BROADWAY @ MAY F/E #1",
+        "weeklyImpressions": 56387,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109799,
+        "latitude": 46.87486,
+        "longitude": -114.00385,
+        "location": "WEST BROADWAY @ MAY F/W #2",
+        "weeklyImpressions": 68548,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109801,
+        "latitude": 46.90319,
+        "longitude": -114.04814,
+        "location": "WEST BROADWAY @ FLYNN F/W #1",
+        "weeklyImpressions": 70100,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109802,
+        "latitude": 46.903,
+        "longitude": -114.04772,
+        "location": "WEST BROADWAY @ FLYNN F/W #1",
+        "weeklyImpressions": 70802,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109803,
+        "latitude": 46.89532,
+        "longitude": -114.03317,
+        "location": "WEST BROADWAY @ RAILROAD  F/W #1",
+        "weeklyImpressions": 36703,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109804,
+        "latitude": 46.866787,
+        "longitude": -114.020096,
+        "location": "SOUTH 3RD W/O RUSSELL F/E #1",
+        "weeklyImpressions": 65347,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109805,
+        "latitude": 46.88539,
+        "longitude": -114.04125,
+        "location": "MULLAN W/O RESERVE F/W #1",
+        "weeklyImpressions": 83606,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109806,
+        "latitude": 46.88539,
+        "longitude": -114.04125,
+        "location": "MULLAN W/O RESERVE F/E #2",
+        "weeklyImpressions": 77826,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109807,
+        "latitude": 46.86705,
+        "longitude": -114.01704,
+        "location": "SOUTH 3RD @ PRINCE F/E #2",
+        "weeklyImpressions": 41368,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109808,
+        "latitude": 46.86705,
+        "longitude": -114.01704,
+        "location": "SOUTH 3RD @ PRINCE F/W #1",
+        "weeklyImpressions": 48943,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109809,
+        "latitude": 46.87327,
+        "longitude": -114.01839,
+        "location": "RUSSELL @ MONTANA F/N #1",
+        "weeklyImpressions": 86589,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109810,
+        "latitude": 46.866795,
+        "longitude": -114.019844,
+        "location": "SOUTH 3RD W/O RUSSELL F/W #1",
+        "weeklyImpressions": 61788,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109811,
+        "latitude": 46.866822,
+        "longitude": -114.019777,
+        "location": "SOUTH 3RD W/O RUSSELL F/W #1",
+        "weeklyImpressions": 63101,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109812,
+        "latitude": 46.936128,
+        "longitude": -114.094757,
+        "location": "I-90 WEST @ BUTLER CREEK F/W #2",
+        "weeklyImpressions": 78880,
+        "mediaTypeStyle": "Junior Bulletin,Regular",
+        "cost": 1250
+    },
+    {
+        "panelID": 109813,
+        "latitude": 46.84065,
+        "longitude": -114.02921,
+        "location": "BROOKS @ PAXSON F/N #1",
+        "weeklyImpressions": 102374,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109814,
+        "latitude": 46.84065,
+        "longitude": -114.02921,
+        "location": "BROOKS @ PAXSON F/S #2",
+        "weeklyImpressions": 113411,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1500
+    },
+    {
+        "panelID": 109815,
+        "latitude": 46.84438,
+        "longitude": -114.02406,
+        "location": "BROOKS @ GARFIELD F/S #2",
+        "weeklyImpressions": 145453,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109816,
+        "latitude": 46.84438,
+        "longitude": -114.02406,
+        "location": "BROOKS @ GARFIELD F/N #1",
+        "weeklyImpressions": 78852,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109817,
+        "latitude": 46.84792,
+        "longitude": -114.01977,
+        "location": "BROOKS @ LIVINGSTON F/NE #3",
+        "weeklyImpressions": 134069,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109818,
+        "latitude": 46.84792,
+        "longitude": -114.01977,
+        "location": "BROOKS @ LIVINGSTON #2 F/S",
+        "weeklyImpressions": 77744,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109819,
+        "latitude": 46.84792,
+        "longitude": -114.01977,
+        "location": "BROOKS @ LIVINGSTON #1 F/S",
+        "weeklyImpressions": 77903,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109820,
+        "latitude": 46.84873,
+        "longitude": -114.03382,
+        "location": "SOUTH AVE @ EATON F/W #1",
+        "weeklyImpressions": 47361,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109821,
+        "latitude": 46.86924,
+        "longitude": -114.01847,
+        "location": "RUSSELL @ 2ND F/S #1",
+        "weeklyImpressions": 81559,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109824,
+        "latitude": 46.87327,
+        "longitude": -114.01839,
+        "location": "RUSSELL @ MONTANA F/S #4",
+        "weeklyImpressions": 93321,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109825,
+        "latitude": 46.87327,
+        "longitude": -114.01839,
+        "location": "RUSSELL @ MONTANA F/N#2",
+        "weeklyImpressions": 85978,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109826,
+        "latitude": 46.87327,
+        "longitude": -114.01839,
+        "location": "RUSSELL @ MONTANA F/S #2",
+        "weeklyImpressions": 93936,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109827,
+        "latitude": 46.86683,
+        "longitude": -114.0033,
+        "location": "ORANGE @ SOUTH 3RD F/N #1",
+        "weeklyImpressions": 75652,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109828,
+        "latitude": 46.86683,
+        "longitude": -114.0033,
+        "location": "ORANGE @ SOUTH 3RD F/S #2",
+        "weeklyImpressions": 106496,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109829,
+        "latitude": 46.853459,
+        "longitude": -114.01287,
+        "location": "STEPHENS @ KENSINGTON F/S #2",
+        "weeklyImpressions": 70990,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109830,
+        "latitude": 46.853459,
+        "longitude": -114.01287,
+        "location": "STEPHENS @ KENSINGTON F/N #1",
+        "weeklyImpressions": 55178,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109833,
+        "latitude": 46.853236,
+        "longitude": -114.011755,
+        "location": "BROOKS @ KENSINGTON #2 F/N",
+        "weeklyImpressions": 57323,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109834,
+        "latitude": 46.853166,
+        "longitude": -114.011883,
+        "location": "BROOKS @ KENSINGTON F/S #2",
+        "weeklyImpressions": 70219,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109836,
+        "latitude": 46.853166,
+        "longitude": -114.011883,
+        "location": "BROOKS @ KENSINGTON F/S #1",
+        "weeklyImpressions": 91942,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1350
+    },
+    {
+        "panelID": 109837,
+        "latitude": 46.852762,
+        "longitude": -114.012482,
+        "location": "BROOKS @ STEPHENS #1 F/N",
+        "weeklyImpressions": 135665,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109838,
+        "latitude": 46.852762,
+        "longitude": -114.012482,
+        "location": "BROOKS @ STEVENS #2 F/N",
+        "weeklyImpressions": 54593,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109839,
+        "latitude": 46.853236,
+        "longitude": -114.011755,
+        "location": "BROOKS @ KENSINGTON F/N #3",
+        "weeklyImpressions": 57323,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109840,
+        "latitude": 46.854137,
+        "longitude": -114.009768,
+        "location": "BROOKS @ STRAND F/S #4",
+        "weeklyImpressions": 60480,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109841,
+        "latitude": 46.854122,
+        "longitude": -114.00976,
+        "location": "BROOKS @ STRAND F/N #2",
+        "weeklyImpressions": 38900,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109842,
+        "latitude": 46.854122,
+        "longitude": -114.00976,
+        "location": "BROOKS @ STRAND F/N #1",
+        "weeklyImpressions": 40154,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109843,
+        "latitude": 46.854137,
+        "longitude": -114.009768,
+        "location": "BROOKS @ STRAND F/S #3",
+        "weeklyImpressions": 62919,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109860,
+        "latitude": 46.910394,
+        "longitude": -114.055981,
+        "location": "EXPRESSWAY S/L 1.5 MI E/O AIRWAY BLVD F/W #2",
+        "weeklyImpressions": 28450,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109861,
+        "latitude": 46.910394,
+        "longitude": -114.055981,
+        "location": "EXPRESSWAY S/L 1 MI E/O AIRWAY BLVD F/E #1",
+        "weeklyImpressions": 22056,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109862,
+        "latitude": 46.9123,
+        "longitude": -114.059027,
+        "location": "EXPRESSWAY S/L 1.3 MI E/O AIRWAY BLVD F/W #2",
+        "weeklyImpressions": 29221,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109863,
+        "latitude": 46.91127,
+        "longitude": -114.057281,
+        "location": "EXPRESSWAY S/L 0.9 MI E/O AIRWAY BLVD F/E #1",
+        "weeklyImpressions": 2277,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109864,
+        "latitude": 46.91127,
+        "longitude": -114.057281,
+        "location": "EXPRESSWAY S/L 1.4 MI E/O AIRWAY BLVD F/W #2",
+        "weeklyImpressions": 1108,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 109865,
+        "latitude": 46.9123,
+        "longitude": -114.059027,
+        "location": "EXRESSWAY S/L 0.8 MI E/O AIRWAY BLVD F/E #1",
+        "weeklyImpressions": 2110,
+        "mediaTypeStyle": "Poster,Retro",
+        "cost": 1250
+    },
+    {
+        "panelID": 1000018,
+        "latitude": 46.43674,
+        "longitude": -105.778383,
+        "location": "I 94 S/L 1.2 MI E/O EAST MILES CITY EXIT",
+        "weeklyImpressions": 18513,
+        "mediaTypeStyle": "Permanent Bulletin,Regular",
+        "cost": 900
+    },
+    {
+        "panelID": 1000019,
+        "latitude": 46.4352839,
+        "longitude": -105.779427,
+        "location": "I-94 S/L 1 MI E/O EAST MILES CITY EXIT",
+        "weeklyImpressions": 18220,
+        "mediaTypeStyle": "Permanent Bulletin,Regular",
+        "cost": 900
+    }
+]
