@@ -1,4 +1,4 @@
-![BillboardAI Image](assets/billboard-ai-studio-001.png?raw=true)
+![BillboardAI Image](assets/billboardAI-SD3-5-002.webp?raw=true)
 
 Enhancing outdoor advertising with Computer Vision and AI
 
