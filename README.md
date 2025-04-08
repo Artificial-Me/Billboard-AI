@@ -1,6 +1,6 @@
 # Billboard AI: Revolutionizing Outdoor Advertising with Computer Vision & AI
 
-**Status:** *[Development | Prototyping | Beta]*
+![BillboardAI Image](assets/billboardAI-SD3-5-003.webp?raw=true)
 
 ## Overview
 
@@ -44,8 +44,7 @@ Our core module leverages multiple CV models running on edge devices attached to
     *   **Estimated Engagement Duration:** Measures the approximate time individuals (pedestrians or vehicle occupants, where visible) are oriented towards the ad space. *Note: Precise eye-tracking (gaze) from distance is challenging; this focuses on head pose as a proxy for attention.*
 
 *   **Anonymized Vehicle Identification & Frequency:**
-    *   *(Replaces Scene Text for License Plates - MAJOR PRIVACY WARNING):* Instead of capturing license plates (which carries significant privacy risks and legal hurdles), focus on generating unique, *anonymized identifiers* for vehicles detected.
-    *   **Purpose:** Track the frequency of unique vehicles passing specific locations over time (e.g., is it the same commuter traffic daily, or constantly new vehicles?). This helps understand audience churn and reach frequency *without storing personally identifiable information (PII)*. *Strict anonymization techniques (e.g., hashing with salting, feature extraction) are essential here.*
+    *   Track the frequency of unique vehicles passing specific locations over time (e.g., is it the same commuter traffic daily, or constantly new vehicles?). This helps understand audience churn and reach frequency *without storing personally identifiable information (PII)*. *Strict anonymization techniques (e.g., hashing with salting, feature extraction) are essential here.*
 
 *   **Contextual Analysis:**
     *   **Weather Correlation:** Automatically logs weather conditions (sunny, rainy, cloudy, snowy) and correlates them with traffic patterns and ad visibility/effectiveness.
@@ -72,7 +71,7 @@ Our core module leverages multiple CV models running on edge devices attached to
     *   Synergies between client locations and billboard placements.
 *   **Technology:** Leverages the **Palantir AIP Ontology SDK** (or similar graph database technologies like Neo4j, Neptune) to model and query these complex relationships effectively.
 
-## Technology Stack (Conceptual)
+## Technology Stack
 
 *   **Edge Hardware:**
     *   **Compute:** Testing platforms like Raspberry Pi 5 (potentially with AI HAT+ for acceleration) and specialized SoCs like the one in the OpenMV N6. Evaluating performance, power consumption, thermal management, and cost for a custom solution.
@@ -96,14 +95,6 @@ Our core module leverages multiple CV models running on edge devices attached to
     *   Web application (React, Vue, Angular) for AEs and advertisers to view dashboards, reports, alerts, and KG visualizations.
     *   Mapping libraries (Mapbox, Leaflet) for geospatial visualization.
 
-## System Architecture (High-Level)
-
-[Billboard Edge Device] <--- (Secure Connection) ---> [Cloud Ingestion] ---> [Data Processing & Storage] ---> [Knowledge Graph] ---> [API] ---> [Web Dashboard / Client Apps]
-       |                                                     ^
-       |--- (CV Processing)                                  |--- (External Data APIs: Weather, Traffic?)
-       |--- (PoP Analysis)
-       |--- (Anonymized Data Generation)
-
 **Flow:**
 1.  **Capture:** Cameras and sensors on the edge device collect raw data.
 2.  **Edge Process:** CV models process data locally to extract key information (counts, types, attention flags, anonymized IDs, PoP status). This minimizes data transmission needs.
@@ -113,8 +104,6 @@ Our core module leverages multiple CV models running on edge devices attached to
 6.  **Serve Data:** Processed data and KG insights are made available via API to the frontend dashboard.
 
 ## Data Privacy and Ethics Considerations
-
-This is **paramount**. Our approach prioritizes privacy:
 
 *   **Anonymization by Design:** Processing occurs primarily on the edge. Only aggregated counts, anonymized identifiers (designed to be non-reversible to PII), and event flags (e.g., face detected facing billboard) are typically sent to the cloud.
 *   **No Facial Recognition:** We detect faces for orientation (head pose) but do not perform facial *recognition* or store facial images unless explicitly required and consented to for specific PoP audit trails (and even then, with strict controls).
