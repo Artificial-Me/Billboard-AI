@@ -1,6 +1,8 @@
 # Billboard AI: Revolutionizing Outdoor Advertising with Computer Vision & AI
 
-![BillboardAI Image](assets/billboardAI-SD3-5-003.webp?raw=true)
+<p align="center">
+  <img src="assets/billboardAI-SD3-5-003.webp?raw=true" alt="BillboardAI Logo" width="1000">
+</p>
 
 ## Overview
 
@@ -135,16 +137,34 @@ Our core module leverages multiple CV models running on edge devices attached to
 ## Hardware Components Under Evaluation
 
 *   **Microcontroller/SoC:**
-    *   OpenMV N6: [https://openmv.io/collections/all-products/products/openmv-n6?variant=41573456576606](https://openmv.io/collections/all-products/products/openmv-n6?variant=41573456576606)
-    *   Raspberry Pi 5 (16GB): [https://www.raspberrypi.com/products/raspberry-pi-5/](https://www.raspberrypi.com/products/raspberry-pi-5/)
+  
+    - OpenMV N6: [https://openmv.io/collections/all-products/products/openmv-n6?variant=41573456576606](https://openmv.io/collections/all-products/products/openmv-n6?variant=41573456576606)
+    <p align="center">
+      <img src="assets/hardware/OpenMV.png?raw=true" alt="OpenMV N6 Hardware" width="700">
+    </p>
+  
+    - Raspberry Pi 5 (16GB): [https://www.raspberrypi.com/products/raspberry-pi-5/](https://www.raspberrypi.com/products/raspberry-pi-5/)
+    <p align="center">
+      <img src="assets/hardware/R-Pi16gb.webp?raw=true" alt="Raspberry Pi 5 16GB" width="700">
+    </p>
+
 *   **AI Acceleration:**
-    *   Raspberry Pi AI HAT+: [https://www.raspberrypi.com/products/ai-hat/](https://www.raspberrypi.com/products/ai-hat/)
+  
+    - Raspberry Pi AI HAT+: [https://www.raspberrypi.com/products/ai-hat/](https://www.raspberrypi.com/products/ai-hat/)
+    <p align="center">
+      <img src="assets/hardware/R-Pi-AI-Hat.webp?raw=true" alt="Raspberry Pi AI HAT+" width="700">
+    </p>
+      
 *   **Cameras:**
-    *   Raspberry Pi Global Shutter Camera: [https://www.raspberrypi.com/products/raspberry-pi-global-shutter-camera/](https://www.raspberrypi.com/products/raspberry-pi-global-shutter-camera/)
-    *   Raspberry Pi Camera Module 2 NoIR: [https://www.raspberrypi.com/products/pi-noir-camera-v2/](https://www.raspberrypi.com/products/pi-noir-camera-v2/)
+
+    - Raspberry Pi Global Shutter Camera: [https://www.raspberrypi.com/products/raspberry-pi-global-shutter-camera/](https://www.raspberrypi.com/products/raspberry-pi-global-shutter-camera/)
+    <p align="center">
+      <img src="assets/hardware/R-Pi-GlobalShutter.webp?raw=true" alt="Raspberry Pi Global Shutter Camera" width="700">
+    </p>
+ 
+    - Raspberry Pi Camera Module 2 NoIR: [https://www.raspberrypi.com/products/pi-noir-camera-v2/](https://www.raspberrypi.com/products/pi-noir-camera-v2/)
+    <p align="center">
+      <img src="assets/hardware/R-Pi-IR.webp?raw=true" alt="Raspberry Pi Camera Module 2 NoIR" width="700">
+    </p>    
 
 *(Note: These are COTS options for prototyping; a custom hardware solution is planned for scaled deployment.)*
-
-## Contributing / Contact
-
-*[Optional: Add information on how others can contribute or get in touch, e.g., Link to contribution guidelines, contact email]*
