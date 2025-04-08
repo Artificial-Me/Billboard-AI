@@ -1,7 +1,7 @@
 # Billboard AI: Revolutionizing Outdoor Advertising with Computer Vision & AI
 
 <p align="center">
-  <img src="assets/billboardAI-SD3-5-003.webp?raw=true" alt="BillboardAI Logo" width="1000">
+  <img src="assets/BillboardAI-README.jpeg?raw=true" alt="BillboardAI Logo" width="1000">
 </p>
 
 ## Overview
