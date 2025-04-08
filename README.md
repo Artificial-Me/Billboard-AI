@@ -31,3 +31,22 @@ Process data from cameras mounted on billboard structures for real-time analytic
 Create a visual representation of all structures for a market and connecting geospatial, entity relationships, and advertising campaign optomization for each client's unique needs.
 
 > Palantir AIP Ondology SDK used to track the relationship between Billboard structures, client locations, campaign locations, campaign durations, and topological/traffic map data.
+
+### Hardware
+
+*We are currently testing some diferent off-the-shelf hardware solutions, but will be building our own solution for real-world deployment.*
+
+OpenMV N6
+https://openmv.io/collections/all-products/products/openmv-n6?variant=41573456576606
+
+Raspberry Pi 5 16GB
+https://www.raspberrypi.com/products/raspberry-pi-5/
+
+Raspberry Pi AI HAT+
+https://www.raspberrypi.com/products/ai-hat/
+
+Raspberry Pi Global Shutter Camera
+https://www.raspberrypi.com/products/raspberry-pi-global-shutter-camera/
+
+Raspberry Pi Camera Module 2 NoIR
+https://www.raspberrypi.com/products/pi-noir-camera-v2/
