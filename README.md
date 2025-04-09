@@ -61,6 +61,12 @@ Our core module leverages multiple CV models running on edge devices attached to
 
 ### 3. Market Intelligence Knowledge Graph
 
+<p align="center">
+  <img src="assets/location-scrape.png?raw=true" alt="BillboardAI Logo" width="1000">
+</p>
+
+
+
 *   **Holistic Market View:** Creates a dynamic, visual representation of all billboard assets within a market.
 *   **Relationship Mapping:** Connects structures based on:
     *   **Geospatial Data:** Location, proximity to points of interest (malls, highways, event venues), competitor locations.
